@@ -1,4 +1,4 @@
-# Potentially malicious libraries - handle with caution
+## Potentially malicious libraries - handle with caution ##
 
 # Affected packages from the North Korean campaign 'Contagious Interview'
 temp-etherscan-api
