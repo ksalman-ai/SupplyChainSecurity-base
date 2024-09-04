@@ -31,3 +31,7 @@ colourama
 discordsafe
 awscli
 aiohttp-session
+noblox.js-async
+noblox.js-threads
+noblox.js-thread 
+noblox.js-api
