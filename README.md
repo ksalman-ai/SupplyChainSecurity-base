@@ -1,5 +1,5 @@
-# SupplyChainSecurity
-* Malicious Packages and Users are infiltrating software around the globe. Examples of Account Takeover, Dependency Confusion, Hacktivism and Chain/Repo-Jacking are being used to infect your software. This repository highlights some of the key Supply Chain flaws that Checkmarx can help you uncover before it's too late.
+# SupplyChainSecurity 
+* Malicious Packages and Users are infiltrating software around the globe. Examples of Account Takeover, Dependency Confusion, Hacktivism and Chain/Repo-Jacking are being used to infect your software. This repository highlights some of the key Supply Chain flaws that Checkmarx can help you uncover before it's too late...
 
 
 ## Account Take Over (Good Packages Gone Bad)
